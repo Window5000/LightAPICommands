@@ -14,3 +14,5 @@
 
 - `/light [location] <light level>`
   - `light.set`
+- `/light undo`
+  - `light.undo`
