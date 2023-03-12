@@ -1,0 +1,6 @@
+name: LightAPICommands
+version: '${version}'
+main: me.window.lightapicommands.LightAPICommands
+api-version: 1.19
+depend:
+  - LightAPI
