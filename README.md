@@ -8,3 +8,9 @@
 - Open `config.yml` in the LightAPI plugin directory.
 - Change `enable-metrics` and `force-enable-legacy` to true.
 - Restart your server.
+
+
+## Commands
+
+- `/light [location] <light level>`
+  - `light.set`
