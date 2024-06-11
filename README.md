@@ -1,4 +1,6 @@
 # LightAPICommands
+> [!NOTE]
+> This plugin has been archived do to the Spigot light api being too confusing.
 
 ## Installing
 - Download [LightAPI](https://www.spigotmc.org/resources/lightapi.4510/).
